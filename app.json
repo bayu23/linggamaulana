@@ -1,0 +1,19 @@
+{
+  "name": "linggamaulana",
+  "scripts": {
+  },
+  "env": {
+    "Channelaccesstoken": "icgos+zC+Aiwz3TmCh2ERgDqvpGz3f79SbMOv5cNRsJpFHzFh42SMfeMTPP7U73ocnprPcjzHz2lg/tcHnIuHjThaB/N/fArRzH9cRMPRVdjlSHql/wtdCPNzAnSb+ueqymZDHJqrsZizc+70aJ9EgdB04t89/1O/w1cDnyilFU=",
+    "Channelsecret": "4d19bf55566ff481f745273a1cae2294"
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
